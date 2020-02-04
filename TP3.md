@@ -41,6 +41,8 @@ console.log('Led Off');
 led.unexport();
 ```
 
+. Lancez le script : `node led.js`
+
 . Modifiez le script et le montage électronique pour allumer les deux LEDs du Kit.
 
 2ème partie : LEDs & Web
